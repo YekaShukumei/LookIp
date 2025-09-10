@@ -1,2 +1,11 @@
-# LookIp
-Yeka Look IP adalah tools sederhana berbasis Python untuk melakukan pengecekan alamat IP.
+# 🚀 Yeka Look IP
+
+Tools sederhana untuk cek **IP Lokal, IP Publik, dan IP Domain/Web** dengan tampilan ASCII art.
+
+## 📦 Instalasi
+
+### Kali Linux / Termux
+```bash
+apt update && apt upgrade -y
+apt install python python-pip -y
+pip install requests pyfiglet
