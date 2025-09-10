@@ -7,5 +7,9 @@ Tools sederhana untuk cek **IP Lokal, IP Publik, dan IP Domain/Web** dengan tamp
 ### Kali Linux / Termux
 ```bash
 apt update && apt upgrade -y
+```
+```
 apt install python python-pip -y
+```
+```
 pip install requests pyfiglet
