@@ -13,3 +13,12 @@ apt install python python-pip -y
 ```
 ```
 pip install requests pyfiglet
+```
+```
+git clone https://github.com/YekaShukumei/LookIp.git
+```
+```
+cd LookIp
+```
+```
+python LookIp.py
