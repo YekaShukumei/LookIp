@@ -25,6 +25,6 @@ python LookIp.py
 ```
 ##
 
-# 🚀 Yeka Look IP
+# 🚀 Catatan Harian
 
 Nah code ini di gunakan sebaik baiknya untuk belajar boleh kalian bisa oprek kodenya tidak di encypt jadi kalian bisa belajar project python sederhana ini dulu dan untuk code code lain bakal saya up dan bisa kalian bisa buat belajar belajar..
